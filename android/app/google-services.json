@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "735247829413",
+    "project_id": "fir-listview-b5d1e",
+    "storage_bucket": "fir-listview-b5d1e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:735247829413:android:49adb73804e2f2a5bd804c",
+        "android_client_info": {
+          "package_name": "com.example.firebase_listview"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "735247829413-54gjsjcjgcer3qas7nmh6ei60qmlcc9v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA25dzAtNKoxIyfWu66Xc4URtJXFv9Fbhk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "735247829413-54gjsjcjgcer3qas7nmh6ei60qmlcc9v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

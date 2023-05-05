@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name = "teste">#851414</color>
+    <color name = "gradient_start">#851414</color>
+    <color name = "gradient_center">#381919</color>
+    <color name = "gradient_end">#851414</color>
+</resources>
